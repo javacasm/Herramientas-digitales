@@ -1,5 +1,10 @@
 # HERRAMIENTAS DIGITALES Y ACTIVIDAD DOCENTE: APLICACIÓN EN EL AULA
 
+
+![](./images/images/Licencia_CC_peque.png)
+
+### José Antonio Vacas @javacasm
+
 ## Objetivos
 - Mejorar la competencia digital docente del profesorado, proporcionándoles un kit de herramientas digitales muy diversas con distintas funcionalidades, útiles para el ámbito educativo.
 - Dotar al profesorado de herramientas digitales funcionales tanto para el proceso de enseñanza-aprendizaje a distancia como presencial usando las TACs.
