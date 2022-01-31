@@ -1,9 +1,14 @@
 # HERRAMIENTAS DIGITALES Y ACTIVIDAD DOCENTE: APLICACIÓN EN EL AULA
 
 
-![](./images/Licencia_CC_peque.png)
+## CEP de Motril
+
+Febrero de 2022
 
 ### José Antonio Vacas @javacasm
+
+![](./images/Licencia_CC_peque.png)
+
 
 ## Objetivos
 - Mejorar la competencia digital docente del profesorado, proporcionándoles un kit de herramientas digitales muy diversas con distintas funcionalidades, útiles para el ámbito educativo.
