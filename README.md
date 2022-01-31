@@ -1,7 +1,7 @@
 # HERRAMIENTAS DIGITALES Y ACTIVIDAD DOCENTE: APLICACIÓN EN EL AULA
 
 
-![](./images/images/Licencia_CC_peque.png)
+![](./images/Licencia_CC_peque.png)
 
 ### José Antonio Vacas @javacasm
 
