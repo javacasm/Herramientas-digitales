@@ -28,7 +28,7 @@ Febrero de 2022
     * [Canva](https://www.canva.com/es_es/)
     ![](./images/canva.jpeg)
     * [Genially](https://genial.ly) [Tutorial](https://www.educaciontrespuntocero.com/recursos/tutorial-crear-un-kahoot-para-clase/)
-    * Crea comics con [pixton](https://edu-es.pixton.com/solo/)
+    * Crea comics con [pixton](https://edu-es.pixton.com/solo/) [Tutorial](https://www.educatorstechnology.com/2012/01/pixton-great-cartoon-and-comic-strip.html)
     ![](./images/pixton.jpeg)
 * Tests/Juegos
     * [Kahoot](https://kahoot.it/)
@@ -53,8 +53,9 @@ Febrero de 2022
 * Edición de vídeo
     * [Cap Cut](https://play.google.com/store/apps/details?id=com.lemon.lvoverseas&hl=es&gl=US)
     * [Kinemaster](https://play.google.com/store/apps/details?id=com.nexstreaming.app.kinemasterfree&hl=es_419&gl=US)
-    * [Croma](./Croma.md
-    )
+    * [Croma](./Croma.md)
+
+[Recursos sobre vídeo](https://www.ayudaparamaestros.com/2020/09/5-apps-para-crear-y-editar-videos.html?m=1)
 
 * Guardar contenidos: [Pocket](https://getpocket.com)
 
