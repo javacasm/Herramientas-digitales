@@ -11,6 +11,7 @@ Febrero de 2022
 
 
 ## Objetivos
+
 - Mejorar la competencia digital docente del profesorado, proporcionándoles un kit de herramientas digitales muy diversas con distintas funcionalidades, útiles para el ámbito educativo.
 - Dotar al profesorado de herramientas digitales funcionales tanto para el proceso de enseñanza-aprendizaje a distancia como presencial usando las TACs.
 - Evaluar de forma eficaz usando plataformas digitales.
@@ -21,8 +22,11 @@ Febrero de 2022
 ## Contenidos
 
 * Introducción
+* Recursos
     * [Licencias](Licencias.md)
     * Recursos [sonoros](BancosSonidosMusica.md) y [visuales](https://aonialearning.com/herramientas/recursos-digitales-aula-online/)
+    * [Generador de QR](https://es.qr-code-generator.com/)
+    * [Bitmoji](https://www.bitmoji.com/)
 
 * Presentaciones:
     * [Canva](https://www.canva.com/es_es/)
@@ -30,6 +34,7 @@ Febrero de 2022
     * [Genially](https://genial.ly) [Tutorial](https://www.educaciontrespuntocero.com/recursos/tutorial-crear-un-kahoot-para-clase/)
     * Crea comics con [pixton](https://edu-es.pixton.com/solo/) [Tutorial](https://www.educatorstechnology.com/2012/01/pixton-great-cartoon-and-comic-strip.html)
     ![](./images/pixton.jpeg)
+
 * Tests/Juegos
     * [Kahoot](https://kahoot.it/)
     ![](./images/kahoot.jpeg)
@@ -37,6 +42,7 @@ Febrero de 2022
     ![](./images/plicker.jpeg)
     * [Educaplay](https://es.educaplay.com/)
     ![](./images/educaplay.jpeg)
+    * [liveworksheets](https://es.liveworksheets.com/) para añadir interacción a nuestras presentaciones de Canva
 
 * Realidad aumentada/Virtual
     * [Quiver](https://quivervision.com/)
@@ -45,9 +51,10 @@ Febrero de 2022
     ![](./images/mergecube.jpeg)
     * [Google Expeditions](https://artsandculture.google.com/project/expeditions)
     ![](./images/googleExpeditions.jpeg)
-* [Podcast](./Podcast.md)
+* Sonido y [Podcast](./Podcast.md)
     * Last.fm
     * iVoox
+    * Herramientas de grabación de sonido
     * [Edición de audio](edicionAudio.md)
 * Grabación de vídeo [Android](GrabacionAndroid.md) y [iPad](GrabacionIPad.md)
 * Edición de vídeo
